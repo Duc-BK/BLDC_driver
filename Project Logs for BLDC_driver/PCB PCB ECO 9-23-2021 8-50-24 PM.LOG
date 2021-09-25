@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Hall_3 Pin=Hall-2
+Removed Pin From Net: NetName=Hall_1 Pin=Hall-4
+Added Pin To Net: NetName=Hall_1 Pin=Hall-2
+Added Pin To Net: NetName=Hall_3 Pin=Hall-4
+Added Member To Class: ClassName=U_MCU Member=Component U STM32F103C8T6
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

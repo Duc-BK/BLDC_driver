@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=CAN
+Change Component Designator: OldDesignator=U? NewDesignator=Transceiver
+Added Member To Class: ClassName=U_MCU Member=Component U STM32F103C8T6
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

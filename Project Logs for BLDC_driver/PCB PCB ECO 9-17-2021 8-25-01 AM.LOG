@@ -1,0 +1,330 @@
+Added Component: Designator=C1_U_IC_driver1(SM-CAP-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_IC_driver2(SM-CAP-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_IC_driver3(SM-CAP-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_IC_driver1(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_IC_driver2(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_IC_driver3(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_IC_driver1(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_IC_driver2(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_IC_driver3(CAP-ALU-SMD-4.5x5x1.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_IC_driver1(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_IC_driver2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_IC_driver3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_IC_driver1(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_IC_driver2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_IC_driver3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_IC_driver1(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_IC_driver2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_IC_driver3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1_U_IC_driver1(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DZ1_U_IC_driver2(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DZ1_U_IC_driver3(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DZ2_U_IC_driver1(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DZ2_U_IC_driver2(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DZ2_U_IC_driver3(DIO-1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_IC_driver1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_IC_driver2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_IC_driver3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_IC_driver1(SO8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_U_IC_driver2(SO8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_U_IC_driver3(SO8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=C1_U_IC_driver1-2
+Added Pin To Net: NetName=+12 Pin=C1_U_IC_driver2-2
+Added Pin To Net: NetName=+12 Pin=C1_U_IC_driver3-2
+Added Pin To Net: NetName=+12 Pin=C2_U_IC_driver1-1
+Added Pin To Net: NetName=+12 Pin=C2_U_IC_driver2-1
+Added Pin To Net: NetName=+12 Pin=C2_U_IC_driver3-1
+Added Pin To Net: NetName=+12 Pin=D1_U_IC_driver1-1
+Added Pin To Net: NetName=+12 Pin=D1_U_IC_driver2-1
+Added Pin To Net: NetName=+12 Pin=D1_U_IC_driver3-1
+Added Pin To Net: NetName=+12 Pin=U1_U_IC_driver1-1
+Added Pin To Net: NetName=+12 Pin=U1_U_IC_driver2-1
+Added Pin To Net: NetName=+12 Pin=U1_U_IC_driver3-1
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1_U_IC_driver1-1
+Added Pin To Net: NetName=GND Pin=C1_U_IC_driver2-1
+Added Pin To Net: NetName=GND Pin=C1_U_IC_driver3-1
+Added Pin To Net: NetName=GND Pin=C2_U_IC_driver1-2
+Added Pin To Net: NetName=GND Pin=C2_U_IC_driver2-2
+Added Pin To Net: NetName=GND Pin=C2_U_IC_driver3-2
+Added Pin To Net: NetName=GND Pin=DZ2_U_IC_driver1-1
+Added Pin To Net: NetName=GND Pin=DZ2_U_IC_driver2-1
+Added Pin To Net: NetName=GND Pin=DZ2_U_IC_driver3-1
+Added Pin To Net: NetName=GND Pin=R1_U_IC_driver1-1
+Added Pin To Net: NetName=GND Pin=R1_U_IC_driver2-1
+Added Pin To Net: NetName=GND Pin=R1_U_IC_driver3-1
+Added Pin To Net: NetName=GND Pin=R2_U_IC_driver1-1
+Added Pin To Net: NetName=GND Pin=R2_U_IC_driver2-1
+Added Pin To Net: NetName=GND Pin=R2_U_IC_driver3-1
+Added Pin To Net: NetName=GND Pin=R6_U_IC_driver1-1
+Added Pin To Net: NetName=GND Pin=R6_U_IC_driver2-1
+Added Pin To Net: NetName=GND Pin=R6_U_IC_driver3-1
+Added Pin To Net: NetName=GND Pin=U1_U_IC_driver1-4
+Added Pin To Net: NetName=GND Pin=U1_U_IC_driver2-4
+Added Pin To Net: NetName=GND Pin=U1_U_IC_driver3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=H1_U_IC_driver1 Pin=R1_U_IC_driver1-2
+Added Pin To Net: NetName=H1_U_IC_driver1 Pin=U1_U_IC_driver1-2
+Added Net: Name=H1_U_IC_driver1
+Added Pin To Net: NetName=H1_U_IC_driver2 Pin=R1_U_IC_driver2-2
+Added Pin To Net: NetName=H1_U_IC_driver2 Pin=U1_U_IC_driver2-2
+Added Net: Name=H1_U_IC_driver2
+Added Pin To Net: NetName=H1_U_IC_driver3 Pin=R1_U_IC_driver3-2
+Added Pin To Net: NetName=H1_U_IC_driver3 Pin=U1_U_IC_driver3-2
+Added Net: Name=H1_U_IC_driver3
+Added Pin To Net: NetName=HO1 Pin=D2_U_IC_driver3-1
+Added Pin To Net: NetName=HO1 Pin=DZ1_U_IC_driver3-2
+Added Pin To Net: NetName=HO1 Pin=R3_U_IC_driver3-2
+Added Pin To Net: NetName=HO1 Pin=R4_U_IC_driver3-2
+Added Net: Name=HO1
+Added Pin To Net: NetName=HO2 Pin=D2_U_IC_driver2-1
+Added Pin To Net: NetName=HO2 Pin=DZ1_U_IC_driver2-2
+Added Pin To Net: NetName=HO2 Pin=R3_U_IC_driver2-2
+Added Pin To Net: NetName=HO2 Pin=R4_U_IC_driver2-2
+Added Net: Name=HO2
+Added Pin To Net: NetName=HO3 Pin=D2_U_IC_driver1-1
+Added Pin To Net: NetName=HO3 Pin=DZ1_U_IC_driver1-2
+Added Pin To Net: NetName=HO3 Pin=R3_U_IC_driver1-2
+Added Pin To Net: NetName=HO3 Pin=R4_U_IC_driver1-2
+Added Net: Name=HO3
+Added Pin To Net: NetName=L1_U_IC_driver1 Pin=R2_U_IC_driver1-2
+Added Pin To Net: NetName=L1_U_IC_driver1 Pin=U1_U_IC_driver1-3
+Added Net: Name=L1_U_IC_driver1
+Added Pin To Net: NetName=L1_U_IC_driver2 Pin=R2_U_IC_driver2-2
+Added Pin To Net: NetName=L1_U_IC_driver2 Pin=U1_U_IC_driver2-3
+Added Net: Name=L1_U_IC_driver2
+Added Pin To Net: NetName=L1_U_IC_driver3 Pin=R2_U_IC_driver3-2
+Added Pin To Net: NetName=L1_U_IC_driver3 Pin=U1_U_IC_driver3-3
+Added Net: Name=L1_U_IC_driver3
+Added Pin To Net: NetName=LO1 Pin=D3_U_IC_driver3-1
+Added Pin To Net: NetName=LO1 Pin=DZ2_U_IC_driver3-2
+Added Pin To Net: NetName=LO1 Pin=R5_U_IC_driver3-2
+Added Pin To Net: NetName=LO1 Pin=R6_U_IC_driver3-2
+Added Net: Name=LO1
+Added Pin To Net: NetName=LO2 Pin=D3_U_IC_driver2-1
+Added Pin To Net: NetName=LO2 Pin=DZ2_U_IC_driver2-2
+Added Pin To Net: NetName=LO2 Pin=R5_U_IC_driver2-2
+Added Pin To Net: NetName=LO2 Pin=R6_U_IC_driver2-2
+Added Net: Name=LO2
+Added Pin To Net: NetName=LO3 Pin=D3_U_IC_driver1-1
+Added Pin To Net: NetName=LO3 Pin=DZ2_U_IC_driver1-2
+Added Pin To Net: NetName=LO3 Pin=R5_U_IC_driver1-2
+Added Pin To Net: NetName=LO3 Pin=R6_U_IC_driver1-2
+Added Net: Name=LO3
+Added Pin To Net: NetName=NetC13_U_IC_driver1_1 Pin=C13_U_IC_driver1-1
+Added Pin To Net: NetName=NetC13_U_IC_driver1_1 Pin=D1_U_IC_driver1-2
+Added Pin To Net: NetName=NetC13_U_IC_driver1_1 Pin=U1_U_IC_driver1-8
+Added Net: Name=NetC13_U_IC_driver1_1
+Added Pin To Net: NetName=NetC13_U_IC_driver2_1 Pin=C13_U_IC_driver2-1
+Added Pin To Net: NetName=NetC13_U_IC_driver2_1 Pin=D1_U_IC_driver2-2
+Added Pin To Net: NetName=NetC13_U_IC_driver2_1 Pin=U1_U_IC_driver2-8
+Added Net: Name=NetC13_U_IC_driver2_1
+Added Pin To Net: NetName=NetC13_U_IC_driver3_1 Pin=C13_U_IC_driver3-1
+Added Pin To Net: NetName=NetC13_U_IC_driver3_1 Pin=D1_U_IC_driver3-2
+Added Pin To Net: NetName=NetC13_U_IC_driver3_1 Pin=U1_U_IC_driver3-8
+Added Net: Name=NetC13_U_IC_driver3_1
+Added Pin To Net: NetName=NetD2_U_IC_driver1_2 Pin=D2_U_IC_driver1-2
+Added Pin To Net: NetName=NetD2_U_IC_driver1_2 Pin=R3_U_IC_driver1-1
+Added Pin To Net: NetName=NetD2_U_IC_driver1_2 Pin=U1_U_IC_driver1-7
+Added Net: Name=NetD2_U_IC_driver1_2
+Added Pin To Net: NetName=NetD2_U_IC_driver2_2 Pin=D2_U_IC_driver2-2
+Added Pin To Net: NetName=NetD2_U_IC_driver2_2 Pin=R3_U_IC_driver2-1
+Added Pin To Net: NetName=NetD2_U_IC_driver2_2 Pin=U1_U_IC_driver2-7
+Added Net: Name=NetD2_U_IC_driver2_2
+Added Pin To Net: NetName=NetD2_U_IC_driver3_2 Pin=D2_U_IC_driver3-2
+Added Pin To Net: NetName=NetD2_U_IC_driver3_2 Pin=R3_U_IC_driver3-1
+Added Pin To Net: NetName=NetD2_U_IC_driver3_2 Pin=U1_U_IC_driver3-7
+Added Net: Name=NetD2_U_IC_driver3_2
+Added Pin To Net: NetName=NetD3_U_IC_driver1_2 Pin=D3_U_IC_driver1-2
+Added Pin To Net: NetName=NetD3_U_IC_driver1_2 Pin=R5_U_IC_driver1-1
+Added Pin To Net: NetName=NetD3_U_IC_driver1_2 Pin=U1_U_IC_driver1-5
+Added Net: Name=NetD3_U_IC_driver1_2
+Added Pin To Net: NetName=NetD3_U_IC_driver2_2 Pin=D3_U_IC_driver2-2
+Added Pin To Net: NetName=NetD3_U_IC_driver2_2 Pin=R5_U_IC_driver2-1
+Added Pin To Net: NetName=NetD3_U_IC_driver2_2 Pin=U1_U_IC_driver2-5
+Added Net: Name=NetD3_U_IC_driver2_2
+Added Pin To Net: NetName=NetD3_U_IC_driver3_2 Pin=D3_U_IC_driver3-2
+Added Pin To Net: NetName=NetD3_U_IC_driver3_2 Pin=R5_U_IC_driver3-1
+Added Pin To Net: NetName=NetD3_U_IC_driver3_2 Pin=U1_U_IC_driver3-5
+Added Net: Name=NetD3_U_IC_driver3_2
+Added Pin To Net: NetName=VS1 Pin=C13_U_IC_driver3-2
+Added Pin To Net: NetName=VS1 Pin=DZ1_U_IC_driver3-1
+Added Pin To Net: NetName=VS1 Pin=R4_U_IC_driver3-1
+Added Pin To Net: NetName=VS1 Pin=U1_U_IC_driver3-6
+Added Net: Name=VS1
+Added Pin To Net: NetName=VS2 Pin=C13_U_IC_driver2-2
+Added Pin To Net: NetName=VS2 Pin=DZ1_U_IC_driver2-1
+Added Pin To Net: NetName=VS2 Pin=R4_U_IC_driver2-1
+Added Pin To Net: NetName=VS2 Pin=U1_U_IC_driver2-6
+Added Net: Name=VS2
+Added Pin To Net: NetName=VS3 Pin=C13_U_IC_driver1-2
+Added Pin To Net: NetName=VS3 Pin=DZ1_U_IC_driver1-1
+Added Pin To Net: NetName=VS3 Pin=R4_U_IC_driver1-1
+Added Pin To Net: NetName=VS3 Pin=U1_U_IC_driver1-6
+Added Net: Name=VS3
+Added Class: Name=U_IC_driver1
+Added Class: Name=U_IC_driver2
+Added Class: Name=U_IC_driver3
+Added Class: Name=IC_driver
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3

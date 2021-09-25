@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=Encoder NewDesignator=Hall
+Added Component: Designator=Encoder(KF3-5.08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Encoder-1
+Added Pin To Net: NetName=CAN_RX Pin=U-32
+Added Pin To Net: NetName=CAN_RX Pin=U?-4
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=U-33
+Added Pin To Net: NetName=CAN_TX Pin=U?-1
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=Encoder_A Pin=Encoder-3
+Added Pin To Net: NetName=Encoder_A Pin=U-42
+Added Net: Name=Encoder_A
+Added Pin To Net: NetName=Encoder_Z Pin=Encoder-2
+Added Pin To Net: NetName=Encoder_Z Pin=U-43
+Added Net: Name=Encoder_Z
+Added Member To Class: ClassName=U_Motor Member=Component Hall KF4
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

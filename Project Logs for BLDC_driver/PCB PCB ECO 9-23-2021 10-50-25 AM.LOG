@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED-3 New Footprint=SM-LED-0805-Blue
+Change Component Footprint: Designator=LED2 Old Footprint=LED-3 New Footprint=SM-LED-0805-Blue
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=LED SMD
+Change Component Comment : Designator=LED2 Old Comment=LED New Comment=LED SMD
+Change component parameters: Designator = "LED1"; Footprint = "SM-LED-0805-Blue"; UniqueID = "\KHMSCRIM\SGWNWICF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "LED2"; Footprint = "SM-LED-0805-Blue"; UniqueID = "\KHMSCRIM\SYHJYQQV"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor
