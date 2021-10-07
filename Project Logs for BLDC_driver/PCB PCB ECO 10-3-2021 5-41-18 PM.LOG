@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+12 Pin=C2A-1
+Removed Pin From Net: NetName=GND Pin=C2A-2
+Removed Pin From Net: NetName=+12 Pin=C2B-1
+Removed Pin From Net: NetName=GND Pin=C2B-2
+Removed Pin From Net: NetName=+12 Pin=C2C-1
+Removed Pin From Net: NetName=GND Pin=C2C-2
+Change Component Footprint: Designator=C11 Old Footprint=C0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C12 Old Footprint=C0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C2A Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C2B Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C2C Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C3A Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP POL 2917_7343
+Change Component Footprint: Designator=C3B Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP POL 2917_7343
+Change Component Footprint: Designator=C3C Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP POL 2917_7343
+Change Component Footprint: Designator=Cap6 Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP POL 2917_7343
+Change Component Footprint: Designator=Cap2 Old Footprint=CN2 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=Cap3 Old Footprint=CN2 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C1A Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C1B Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C1C Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C13 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C16 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C17 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C18 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C19 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C20 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C25 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C_1 Old Footprint=SM-CAP-0805 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C21 Old Footprint=SM-Cap-1206 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C22 Old Footprint=SM-Cap-1206 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C23 Old Footprint=SM-Cap-1206 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=C24 Old Footprint=SM-Cap-1206 New Footprint=CAP FILM 0603_1608
+Change Component Footprint: Designator=LED1 Old Footprint=SM-LED-0805-Blue New Footprint=LED 0603_1608 GREEN
+Change Component Footprint: Designator=LED2 Old Footprint=SM-LED-0805-Blue New Footprint=LED 0603_1608 GREEN
+Change Component Footprint: Designator=R12 Old Footprint=SM-RES-1206 New Footprint=RES 0603_1608
+Change Component Comment : Designator=C2A Old Comment=10uF New Comment=104
+Change Component Comment : Designator=C2B Old Comment=10uF New Comment=104
+Change Component Comment : Designator=C2C Old Comment=10uF New Comment=104
+Change Component Comment : Designator=C_2 Old Comment=2000uF/16V New Comment=2000uF/100V
+Change component parameters: Designator = "C2A"; Footprint = "CAP FILM 0603_1608"; UniqueID = "\PJKYLOHO\RJQFNLMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2B"; Footprint = "CAP FILM 0603_1608"; UniqueID = "\YZWJWUYB\RJQFNLMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2C"; Footprint = "CAP FILM 0603_1608"; UniqueID = "\ZYTTVAOJ\RJQFNLMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2A-1
+Added Pin To Net: NetName=+12 Pin=C2A-2
+Added Pin To Net: NetName=GND Pin=C2B-1
+Added Pin To Net: NetName=+12 Pin=C2B-2
+Added Pin To Net: NetName=GND Pin=C2C-1
+Added Pin To Net: NetName=+12 Pin=C2C-2
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Cap5 Old Footprint=CAP TH ALUM ELEC D10.00mm S5.00mm H17.00mm New Footprint=CAP TH ALUM ELEC D10.00mm S5.00mm H20.00mm
+Change Component Footprint: Designator=Diode1 Old Footprint=DIO-SMD-A New Footprint=DIO-SMD-B
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

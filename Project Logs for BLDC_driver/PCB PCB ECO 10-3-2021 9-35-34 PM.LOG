@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=U_MCU Member=current IC
+Added Pin To Net: NetName=- Pin=Rshunt-1
+Added Member To Class: ClassName=U_MCU Member=Component U STM32F103C8T6
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Diode1 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-A
+Change Component Comment : Designator=Diode1 Old Comment=1N5824 New Comment=1N5822
+Change Component Comment : Designator=Cap6 Old Comment=220uF New Comment=1000uF
+Change Component Comment : Designator=Cap5 Old Comment=680uF New Comment=100uF
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

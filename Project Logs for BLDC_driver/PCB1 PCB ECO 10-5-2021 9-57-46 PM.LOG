@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5 Pin=Cap4-1
+Removed Pin From Net: NetName=GND Pin=Cap4-2
+Removed Member From Class: ClassName=Main Member=Cap4
+Change Component Footprint: Designator=Cap6 Old Footprint=CAP-ALU-SMD-G New Footprint=CAP-ALU-SMD-F
+Change Component Footprint: Designator=Cap1 Old Footprint=CAP-ALU-SMD-G New Footprint=CAP FILM 1206
+Change Component Footprint: Designator=C3A Old Footprint=CAP FILM 0603_1608 New Footprint=CAP FILM 0805
+Change Component Footprint: Designator=C3B Old Footprint=CAP FILM 0603_1608 New Footprint=CAP FILM 0805
+Change Component Footprint: Designator=C3C Old Footprint=CAP FILM 0603_1608 New Footprint=CAP FILM 0805
+Change Component Comment : Designator=Cap5 Old Comment=100uF/100V New Comment=150uF/100V
+Change Component Comment : Designator=L Old Comment=100uH/3A New Comment=680uH
+Change Component Comment : Designator=Cap1 Old Comment=1000uF/16V New Comment=100uF/50V
+Change Component Comment : Designator=Cap6 Old Comment=1000uF/16V New Comment=330uF/25V
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

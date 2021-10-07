@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+60 Pin=C_2-1
+Removed Pin From Net: NetName=GND Pin=C_2-2
+Change Component Footprint: Designator=C_2 Old Footprint=CA-ALU-2.54 New Footprint=CAP TH ALUM ELEC D22.00mm S10.00mm H40.00mm
+Change Component Comment : Designator=C_2 Old Comment=2000uF/100V New Comment=EEUFC1J101
+Change component parameters: Designator = "C_2"; Footprint = "CAP TH ALUM ELEC D22.00mm S10.00mm H40.00mm"; UniqueID = "\VNTXGOET\KKFOPDEX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FC1J101/Panasonic%20Electronic%20Components/view-part/494707/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEU-FC1J101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FC1J101/Panasonic%20Electronic%20Components/view-part/494707/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=DZ1A Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=DZ1B Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=DZ1C Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=DZ2A Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=DZ2B Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=DZ2C Old Footprint=DIO-1A New Footprint=DIODES SOT-23-3
+Change Component Footprint: Designator=D1A Old Footprint=DIO-SMD-106 New Footprint=SOD323
+Change Component Footprint: Designator=D1B Old Footprint=DIO-SMD-106 New Footprint=SOD323
+Change Component Footprint: Designator=D1C Old Footprint=DIO-SMD-106 New Footprint=SOD323
+Change Component Footprint: Designator=D2A Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Change Component Footprint: Designator=D2B Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Change Component Footprint: Designator=D2C Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Change Component Footprint: Designator=D3A Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Change Component Footprint: Designator=D3B Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Change Component Footprint: Designator=D3C Old Footprint=DIO-SMD-123 New Footprint=SOD323
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

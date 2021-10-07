@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=+60 Pin=C?-2
+Removed Member From Class: ClassName=U_Motor Member=C?
+Added Component: Designator=C_2(CAP TH ALUM ELEC D22.00mm S10.00mm H40.00mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220uF/450V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+60 Pin=C_2-1
+Added Pin To Net: NetName=GND Pin=C_2-2
+Added Member To Class: ClassName=U_Motor Member=Component C_2 2200uF/100V
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor

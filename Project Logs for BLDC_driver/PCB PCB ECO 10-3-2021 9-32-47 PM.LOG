@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Member From Class: ClassName=U_Motor Member=U
+Change Component Footprint: Designator=IC1 Old Footprint=QTO-220 New Footprint=STMicroelectronics_D²PAK_0079457_22_MFG
+Change Component Comment : Designator=IC1 Old Comment=LM7805 New Comment=L7805CD2T-TR
+Change Component Designator: OldDesignator=U NewDesignator=current IC
+Change component parameters: Designator = "IC1"; Footprint = "STMicroelectronics_D²PAK_0079457_22_MFG"; UniqueID = "\CYMBWLQD"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Member To Class: ClassName=U_Motor Member=Component current IC INA139
+Added Room: Name=Main
+Added Room: Name=U_IC_driver1
+Added Room: Name=U_IC_driver2
+Added Room: Name=U_IC_driver3
+Added Room: Name=U_Motor
